@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #444141;
+  color: #92f6a7;
+}
+header, footer {
+  background: #363333;
+  color: #ace7a8;
+  padding: 10px;
+  text-align: center;
+}
+main {
+  padding: 20px;
+}
+.blog-post {
+  background: rgb(210, 213, 209);
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h2 {
+  color:black;
+}
+p{
+  color: rgb(247, 16, 182);
+}
